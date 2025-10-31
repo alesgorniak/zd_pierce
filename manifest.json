@@ -3,7 +3,7 @@
   "author": "Zenplates",
   "version": "2.2.7",
   "api_version": 3,
-  "default_locale": "cs-cz",
+  "default_locale": "en-gb",
   "settings": [
     {
       "label": "colors_group_label",
