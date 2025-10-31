@@ -13,7 +13,7 @@
           "type": "color",
           "description": "color_primary_description",
           "label": "color_primary_label",
-          "value": "#236291"
+          "value": "#198900"
         },
         {
           "identifier": "color_primary_inverse",
@@ -27,7 +27,7 @@
           "type": "color",
           "description": "color_secondary_description",
           "label": "color_secondary_label",
-          "value": "#007c89"
+          "value": "#198900"
         },
         {
           "identifier": "color_secondary_inverse",
@@ -55,7 +55,7 @@
           "type": "color",
           "description": "heading_color_description",
           "label": "heading_color_label",
-          "value": "#241c15"
+          "value": "#198900"
         },
         {
           "identifier": "color_text",
@@ -69,7 +69,7 @@
           "type": "color",
           "description": "link_color_description",
           "label": "link_color_label",
-          "value": "#007c89"
+          "value": "#198900"
         },
         {
           "identifier": "color_outline",
@@ -123,7 +123,7 @@
           "type": "list",
           "description": "heading_font_description",
           "label": "heading_font_label",
-          "value": "'Faustina', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif",
+          "value": "Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif",
           "options": [
             {
               "label": "Arimo (Google)",
@@ -572,7 +572,7 @@
           "type": "text",
           "description": "tagline_description",
           "label": "tagline_label",
-          "value": "Pierce"
+          "value": ""
         }
       ]
     },
@@ -749,7 +749,7 @@
           "type": "text",
           "description": "search_placeholder_description",
           "label": "search_placeholder_label",
-          "value": "Find answers..."
+          "value": "Nalezněte odpovědi..."
         }
       ]
     },
@@ -1034,7 +1034,7 @@
           "type": "text",
           "description": "hero_heading_description",
           "label": "hero_heading_label",
-          "value": "Knowledge is power, use it."
+          "value": "Ve znalostech je síla, využijte je."
         },
         {
           "identifier": "color_hero_heading",
@@ -1225,7 +1225,7 @@
           "type": "text",
           "description": "popular_keywords_heading_description",
           "label": "popular_keywords_heading_label",
-          "value": "Suggested search terms"
+          "value": "Návrh vyhledávání"
         },
         {
           "identifier": "popular_keywords",
@@ -1239,7 +1239,7 @@
           "type": "text",
           "description": "promoted_videos_heading_description",
           "label": "promoted_videos_heading_label",
-          "value": "Popular videos"
+          "value": "Oblíbená videa"
         },
         {
           "identifier": "promoted_video_ids",
@@ -1579,7 +1579,7 @@
           "type": "text",
           "description": "content_blocks_heading_description",
           "label": "content_blocks_heading_label",
-          "value": "Help by topic"
+          "value": "Kategorie"
         },
         {
           "identifier": "number_content_block_columns",
@@ -1721,7 +1721,7 @@
           "type": "list",
           "description": "promoted_article_list_style_description",
           "label": "promoted_article_list_style_label",
-          "value": "2-unstyled",
+          "value": "none",
           "options": [
             {
               "label": "None",
@@ -1771,7 +1771,7 @@
           "type": "text",
           "description": "promoted_articles_heading_description",
           "label": "promoted_articles_heading_label",
-          "value": "Popular articles"
+          "value": "Doporučené články"
         },
         {
           "identifier": "promoted_article_list_columns",
@@ -1830,7 +1830,7 @@
           "type": "list",
           "description": "contact_block_style_description",
           "label": "contact_block_style_label",
-          "value": "list",
+          "value": "none",
           "options": [
             {
               "label": "None",
@@ -2037,7 +2037,7 @@
           "type": "list",
           "description": "cta_style_description",
           "label": "cta_style_label",
-          "value": "boxed-image",
+          "value": "none",
           "options": [
             {
               "label": "None",
@@ -2155,7 +2155,7 @@
           "type": "list",
           "description": "category_sidebar_description",
           "label": "category_sidebar_label",
-          "value": "category-list",
+          "value": "none",
           "options": [
             {
               "label": "None",
@@ -2639,14 +2639,14 @@
           "type": "color",
           "description": "bg_color_footer_description",
           "label": "bg_color_footer_label",
-          "value": "#0e3c5f"
+          "value": "#198900"
         },
         {
           "identifier": "footer_link_1_text",
           "type": "text",
           "description": "footer_link_1_text_description",
           "label": "footer_link_1_text_label",
-          "value": "Back to website"
+          "value": ""
         },
         {
           "identifier": "footer_link_1_url",
@@ -2723,7 +2723,7 @@
           "type": "checkbox",
           "description": "show_credit_link_description",
           "label": "show_credit_link_label",
-          "value": true
+          "value": false
         }
       ]
     },
